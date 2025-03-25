@@ -12,6 +12,9 @@ contributor:
     gutenberg_agent_id: '3629'
     url: http://www.gutenberg.org/2009/agents/3629
     wikipedia: https://en.wikipedia.org/wiki/Alfred_George_Gardiner
+covers:
+- cover_type: archival
+  image_path: 75467-h/images/cover.jpg
 creator:
   author:
     agent_name: Black, Clementina
@@ -21,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/46028
     wikipedia: https://en.wikipedia.org/wiki/Clementina_Black
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75467#Sweated-industry-and-the-minimum-wage
 gutenberg_issued: '2025-02-25'
 gutenberg_type: Text
 identifiers:
